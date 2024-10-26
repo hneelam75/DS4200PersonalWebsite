@@ -1,0 +1,15 @@
+Submission Responses for Homework 3 Part 1 (Website Design):
+
+1. Hyperlink to Website: https://hneelam75.github.io/DS4200PersonalWebsite/ 
+
+2. Description of the Styling & Customizations Done: 
+When designing my personal website, I made use of different (1) fonts, (2) font sizes,
+(3) text colors, and (4) headings across all my pages. Additionally, I also utilized a
+box element and different forms of navigation. For instance, I placed my contact information
+within a light pink box (with a navy blue border) in order to emphasize the best ways of
+connecting with me. Furthermore, I implemented a click button that allows users to visit the
+second page of my website (i.e. the one that goes into more depth about my interests), while
+also providing hyperlinks to a science article I wrote and my LinkedIn profile. Last but not
+least, considering the dark colored writing on both pages, I decided to set the background color
+as lavender, as opposed to the usual white, light yellow, or beige. With these changes, I was able
+to use three different forms of customization to make my website more appealing to the reader(s).
